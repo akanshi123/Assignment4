@@ -2,12 +2,15 @@ Assignment 4 | Akanshi Khandelwal | Media Queries
 This project demonstrates the use of CSS Media Queries to create responsive web designs that adapt to different screen sizes. It showcases different screen sizes using text elements that change based on the width of the viewport.
 
 Features:
+
 A simple responsive layout that uses media queries to adjust the content for different screen sizes.
 The content dynamically changes with different screen widths, displayed for four breakpoints: 1440px (Laptop Large), 1024px (Laptop), 768px (Tablet), and 425px (Mobile).
 Technologies Used:
 HTML: The structure of the webpage and content.
 CSS: Media queries to adjust the layout based on different screen sizes. (styles.css)
+
 Setup Instructions:
+
 Clone the repository to your local machine:
 
 bash
@@ -28,20 +31,25 @@ xdg-open index.html  # Linux
 If you make changes to the HTML, CSS, or add new assets, be sure to refresh your browser.
 
 Folder Structure:
+
 bash
 
 assignment-4/
 │
 ├── styles.css            # Main stylesheet for media queries and responsive design
 └── index.html            # Main HTML file
+
 Media Queries:
+
 The page adapts to the following screen sizes:
 
 1440px (Laptop Large): Displays the content for large screens.
 1024px (Laptop): Adjusts for medium-sized laptop screens.
 768px (Tablet): Adjusts for tablets or smaller laptop screens.
 425px (Mobile): Adjusts for mobile screens.
+
 Example of Media Queries:
+
 css
 
 /* Laptop Large (1440px and up) */
