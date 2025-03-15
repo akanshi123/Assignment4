@@ -63,6 +63,7 @@ css
 @media (min-width: 425px) {
     .mobile { display: block; }
 }
+
 Contributing:
 
 Feel free to fork the repository, create a branch, and submit a pull request if you'd like to contribute improvements or suggestions.
